@@ -39,3 +39,5 @@ npm run serve / yarn serve
 npm install --save firebase
 
 npm install --save vue-router
+
+npm i bootstrap-vue
